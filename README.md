@@ -20,4 +20,4 @@
 
 - **Efficient outreach by customer care and promotion agents**
 
-[`Program`](customerweb_Activity_records.ipynb)
+[`Program`](customerweb_activity_records.ipynb)
